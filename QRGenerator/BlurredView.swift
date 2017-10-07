@@ -12,7 +12,7 @@ import Cocoa
 class BlurredView: NSVisualEffectView {
     
     override func viewDidMoveToWindow() {
-        self.material = NSVisualEffectView.Material.ultraDark
+        self.material = NSVisualEffectView.Material.dark
         self.blendingMode = NSVisualEffectView.BlendingMode.behindWindow
         self.state = NSVisualEffectView.State.active
     }
