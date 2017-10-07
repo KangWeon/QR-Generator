@@ -79,7 +79,7 @@ class ViewController: NSViewController, NSTextFieldDelegate {
         }
     }
     
-    func setupUI() {        
+    func setupUI() {
         let onlyIntFormatter = OnlyIntegerValueFormatter()
         qrSizeTextField.formatter = onlyIntFormatter
         qrTextField.delegate = self
