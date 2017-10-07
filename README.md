@@ -2,7 +2,7 @@
 
 ![QR Generator](https://github.com/eugenebokhan/QR-Generator/raw/master/Media/QR%20Generator.png)
 
-**OS Version:** macOS Yousemite.
+**Minimal OS version:** macOS Yousemite.
 
 ## License
 
